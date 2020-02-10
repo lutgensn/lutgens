@@ -1,0 +1,52 @@
+body {
+background:orange;
+font:normal 15pt Arial;
+background-image: url(libre.jpg);
+
+
+}
+
+header {
+color: black;
+text-align: center;
+
+} 
+
+section {
+background:white;
+border-radius: 10px;
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.911);
+
+}
+#txti{
+color: red;
+font-size: 20px;
+
+}
+#txtf{
+color: red;
+font-size: 20px;
+}
+
+#lit{
+color: red;
+text-align: center;
+font-size: 30px;
+
+}
+#res{
+color:red;
+font-size: 30px;
+
+}
+
+
+footer {
+color:red;
+text-align: center;
+font-style: italic;
+
+}
